@@ -12,3 +12,8 @@ This is a portable version that allows the Windows shell to have a shell extensi
 ## Support
 
 This is made for Sublime 2 and 3 versions. Version 1 have not been tested.
+
+## URLS
+
+Sublime Text Site: <https://www.sublimetext.com/>
+Wikipedia Sublime Text Page: <https://en.wikipedia.org/wiki/Sublime_Text>
