@@ -15,5 +15,5 @@ This is made for Sublime 2 and 3 versions. Version 1 have not been tested.
 
 ## URLS
 
-Sublime Text Site: <https://www.sublimetext.com/>
-Wikipedia Sublime Text Page: <https://en.wikipedia.org/wiki/Sublime_Text>
+..* Sublime Text Site: <https://www.sublimetext.com/>
+..* Wikipedia Sublime Text Page: <https://en.wikipedia.org/wiki/Sublime_Text>
