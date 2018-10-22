@@ -8,5 +8,5 @@ This repository is a footprint of the common environment configurations required
 
 As of now there is information for two configurations in this repository:
 
-1. [ESLint](ESLint\) - Baseline configuration for Linux Mint 19.
-2. [Sublime Text 3](Sublime&nbsp;Text\) - Sometimes on windows, the context menu is not added.
+1. [ESLint](https://github.com/vladcuevas/EnvTools/tree/master/ESLint) - Baseline configuration for Linux Mint 19.
+2. [Sublime Text 3](https://github.com/vladcuevas/EnvTools/tree/master/Sublime%20Text) - Sometimes on windows, the context menu is not added.
